@@ -1,0 +1,7 @@
+datasets folder contains all datasets.
+By running the Driver.m file we can run all the functionalitlies
+two folders will be created.boxplots and figures.
+results file contains all the errormetrics values..
+
+To running this project we need to add lssvm toolbox.we need to add toolbox folder to our matlab path.
+    HOme -> setpath -> add folder
